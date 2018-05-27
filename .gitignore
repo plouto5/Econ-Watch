@@ -107,4 +107,4 @@ venv.bak/
 key.py
 
 # csv files
-.csv
+*.csv
