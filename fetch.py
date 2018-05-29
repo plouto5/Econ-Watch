@@ -2,7 +2,7 @@ import quandl
 import time
 from key import key
 
-# Quandl Forex API Code
+# Quandl US Econ data API Code
 fx_links = [            'FRED/GDP',
                         'FRED/GDPC1',
                         'FRED/CPIAUCSL',
