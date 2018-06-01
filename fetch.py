@@ -3,7 +3,7 @@ import time
 from key import key
 
 # Quandl US Econ data API Code
-fx_links = [            'FRED/GDP',
+US_data_links = [            'FRED/GDP',
                         'FRED/GDPC1',
                         'FRED/CPIAUCSL',
                         'FRED/BASE',
