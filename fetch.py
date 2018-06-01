@@ -1,8 +1,8 @@
 import os
 import quandl
 import time
-from directory import path
-from key import key
+from hidden.directory import path
+from hidden.key import key
 from US_data import *
 
 
