@@ -108,3 +108,6 @@ key.py
 
 # csv files
 *.csv
+
+# folder structure
+directory.py
