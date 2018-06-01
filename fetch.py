@@ -5,7 +5,6 @@ from hidden.directory import path
 from hidden.key import key
 from Data_Lists.US_data import *
 
-
 quandl.ApiConfig.api_key = key
 
 for x in US_data_links:
