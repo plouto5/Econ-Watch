@@ -1,6 +1,7 @@
 
 # Quandl US Econ data API Code
-US_data_links = [       'FRED/GDP',
+US_data_links = [
+                        'FRED/GDP',
                         'FRED/GDPC1',
                         'FRED/CPIAUCSL',
                         'FRED/BASE',
@@ -9,5 +10,6 @@ US_data_links = [       'FRED/GDP',
                         'FRED/GFDEBTN',
                         'FRED/PSAVERT',
                         'FRED/MEHOINUSA672N',
-                        'FRED/NAPM'
-           ]
+                        'FRED/NAPM',
+                        'FRED/PAYNSA'
+                ]
